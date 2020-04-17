@@ -1,0 +1,28 @@
+[ 
+  {  
+    "itemName":"Pizza",
+    "prcItem" :"100"
+  },
+  {
+    "itemName":"Burger",
+    "prcItem" :"100"
+  },
+  {
+    "itemName":"Pastry",
+    "prcItem" :"100"
+  }
+  {
+    "itemName":"Idli",
+    "prcItem" :"50"
+  }
+  {
+    "itemName":"Dosa",
+    "prcItem" :"100"
+  }
+  {
+    "itemName":"Sambhar",
+    "prcItem" :"100"
+  }
+]
+
+
